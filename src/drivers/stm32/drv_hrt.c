@@ -186,7 +186,7 @@
 /*
  * Period of the free-running counter, in microseconds.
  */
-#define HRT_COUNTER_PERIOD	65536
+#define HRT_COUNTER_PERIOD	65535
 
 /*
  * Scaling factor(s) for the free-running counter; convert an input
